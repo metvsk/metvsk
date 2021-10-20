@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Vishnu Sunilkumar<br>
-conenct with me @ <img src="images/logo_fb.png"  href="fb.com/metvsk">
+<a href="fb.com/metvsk"><img src="images/logo_fb.png" width=40></a>
 <img src="logo.png" width=100><br>
 <a href="https://www.chillandcode.com">website</a>
   
