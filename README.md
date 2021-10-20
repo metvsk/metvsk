@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm Vishnu
-A humanity & science enthusiast<br>
+I'm Vishnu<br>
+A science enthusiast<br>
 <section >
-  
+  Checkout my little apps and games
   <a href="https://www.chillandcode.com" target="_blank"><img src="logo.png" width=50><br>
   👆www.chillandcode.com🖱️</a><br><br>
   
