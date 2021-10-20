@@ -5,7 +5,7 @@ My name is Vishnu Sunilkumar  <td>  <a href="https://twitter.com/metvsk"><img sr
 <br>
 <section>
   <a href="https://www.chillandcode.com"><img src="logo.png" width=50><br>
-  👆 website</a>
+  👆 website 🖱️</a>
   </section>
   <hr>
 - 🔭 Actively working on youtube API and Lives<br>
