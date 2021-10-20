@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 My name is Vishnu Sunilkumar<br>
-<div>
+
 <img src="logo.png" width=100><br>
 <a href="https://www.chillandcode.com">website</a>
-  </div>
+  
 - 🔭 Actively working on youtube API and Lives
 - 🌱 learning Kotlin to improve productivity
 - 👯 looking forward to collaborate on projects with social impacts at a future date...
