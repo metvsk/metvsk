@@ -4,8 +4,8 @@ My name is Vishnu Sunilkumar  <td>  <a href="https://twitter.com/metvsk"><img sr
 <a href="https://www.facebook.com/metvsk/"><img src="images/logo_fb.png" width=25></a>
 <br>
 <section>
-  <img src="logo.png" width=100><br>
-  <a href="https://www.chillandcode.com">website</a>
+  <a href="https://www.chillandcode.com"><img src="logo.png" width=50><br>
+  👆 website</a>
   </section>
   <hr>
 - 🔭 Actively working on youtube API and Lives<br>
