@@ -3,9 +3,10 @@ My name is Vishnu Sunilkumar  <td>  <a href="https://twitter.com/metvsk"><img sr
 <a href="https://www.linkedin.com/in/metvsk/"><img src="images/logo_linked_in.png" width=25></a>
 <a href="https://www.facebook.com/metvsk/"><img src="images/logo_fb.png" width=25></a>
 <br>
-<img src="logo.png" width=100><br>
-<a href="https://www.chillandcode.com">website</a>
-  
+<section>
+  <img src="logo.png" width=100><br>
+  <a href="https://www.chillandcode.com">website</a>
+  </section>
 - 🔭 Actively working on youtube API and Lives
 - 🌱 learning Kotlin to improve productivity
 - 👯 looking forward to collaborate on projects with social impacts at a future date...
