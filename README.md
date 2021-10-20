@@ -3,7 +3,7 @@ My name is Vishnu Sunilkumar  <td>  <a href="https://twitter.com/metvsk"><img sr
 <a href="https://www.linkedin.com/in/metvsk/"><img src="images/logo_linked_in.png" width=25></a>
 <a href="https://www.facebook.com/metvsk/"><img src="images/logo_fb.png" width=25></a>
 <br>
-<section>
+<section align="center">
   <a href="https://www.chillandcode.com"><img src="logo.png" width=50><br>
   👆 website 🖱️</a>
   </section>
