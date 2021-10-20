@@ -22,7 +22,7 @@ A science enthusiast<br>
 - 😄 Pronouns: He / Himm<br>
 - ⚡ Fun fact:  ✨# Six hours of debugging can save you 5 minutes of reading documentation. ✨<br>
 - 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
