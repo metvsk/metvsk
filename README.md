@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Vishnu Sunilkumar
-<img src="logo.png">
+<img src="logo.png" width=100>
 <a href="https://www.chillandcode.com">website</a>
 - 🔭 I’m currently working on few personal projects relating to youtube API and Lives
 - 🌱 I’m currently learning Kotlin to improve productivity
