@@ -1,11 +1,12 @@
 ### Hi there 👋
-My name is Vishnu Sunilkumar  <td>  <a href="https://twitter.com/metvsk"><img src="images/logo_twitter.png" width=25></a>
+My name is Vishnu Sunilkumar
+<section align="center">
+  <a href="https://www.chillandcode.com"><img src="logo.png" width=50><br>
+  👆www.chillandcode.com🖱️</a><br>
+  <a href="https://twitter.com/metvsk"><img src="images/logo_twitter.png" width=25></a>
 <a href="https://www.linkedin.com/in/metvsk/"><img src="images/logo_linked_in.png" width=25></a>
 <a href="https://www.facebook.com/metvsk/"><img src="images/logo_fb.png" width=25></a>
 <br>
-<section align="center">
-  <a href="https://www.chillandcode.com"><img src="logo.png" width=50><br>
-  👆www.chillandcode.com🖱️</a>
   </section>
   <hr>
 - 🔭 Actively working on youtube API and Lives<br>
