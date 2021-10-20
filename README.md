@@ -8,13 +8,13 @@ My name is Vishnu Sunilkumar  <td>  <a href="https://twitter.com/metvsk"><img sr
   <a href="https://www.chillandcode.com">website</a>
   </section>
   <hr>
-- 🔭 Actively working on youtube API and Lives
-- 🌱 learning Kotlin to improve productivity
-- 👯 looking forward to collaborate on projects with social impacts at a future date...
-- 🤔 help me with literally anything and everything... I am learning.
-- 💬 Happy to help you with Java / Kotlin errors
-- 😄 Pronouns: He / Himm
-- ⚡ Fun fact:  ✨# Six hours of debugging can save you 5 minutes of reading documentation. ✨
+- 🔭 Actively working on youtube API and Lives<br>
+- 🌱 learning Kotlin to improve productivity<br>
+- 👯 looking forward to collaborate on projects with social impacts at a future date...<br>
+- 🤔 help me with literally anything and everything... I am learning.<br>
+- 💬 Happy to help you with Java / Kotlin errors<br>
+- 😄 Pronouns: He / Himm<br>
+- ⚡ Fun fact:  ✨# Six hours of debugging can save you 5 minutes of reading documentation. ✨<br>
 
 <!--
 **metvsk/metvsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
