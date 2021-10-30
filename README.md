@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm Vishnu<br>
-A science enthusiast<br>
+Love 2 Code <br>
 <section >
-  Checkout my little apps and games at <br>
+  Checkout
   <a href="https://www.chillandcode.com" target="_blank"><img src="logo.png" width=50><br>
   👆www.chillandcode.com🖱️</a><br><br>
   
