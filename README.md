@@ -1,8 +1,14 @@
 ### Hi there 👋
 I'm Vishnu<br>
-I Love to code, I find it exiting to figure out solutions the best way possible and reliable and re usable<br>
+I Love to code, I find it exiting to figure out solutions to problems in the best way,using reliable and re-usable code with documentation<br>
+
+I like doing the Manufacturing part or doing the Chores... <br>
+I love food.<br>
+Humanity over everything.<br>
+
+
 <section >
-  Checkout
+  Checkout my website
   <a href="https://www.chillandcode.com" target="_blank"><img src="logo.png" width=50><br>
   👆www.chillandcode.com🖱️</a><br><br>
   
