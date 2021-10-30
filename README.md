@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Vishnu<br>
-Love 2 Code <br>
+I Love to code, I find it exiting to figure out solutions the best way possible and reliable and re usable<br>
 <section >
   Checkout
   <a href="https://www.chillandcode.com" target="_blank"><img src="logo.png" width=50><br>
