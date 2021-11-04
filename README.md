@@ -1,7 +1,7 @@
 Humanity over everything.<br>
 ### Hi there 👋
 I'm Vishnu<br>
-I Love to code, I find it exiting to figure out solutions to problems in the best way,using reliable and re-usable code with documentation<br>
+I Love to code, I find it exciting to figure out solutions to problems in the best way,using reliable and re-usable code with documentation<br>
 
 I like doing the Manufacturing part or doing the Chores... <br>
 I love food.<br>
