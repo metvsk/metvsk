@@ -1,5 +1,5 @@
 Humanity over everything.<br>
-### Hi there 👋
+### Hi 👋
 I'm Vishnu<br>
 I Love to code, I find it exciting to figure out solutions to problems in the best way,using reliable and re-usable code with documentation<br>
 
