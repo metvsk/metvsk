@@ -22,7 +22,7 @@ I love food.<br>
   Current Status<br>
 - 🔭 Actively working on youtube API and Lives<br>
 - 🌱 learning Kotlin to improve productivity<br>
-- 👯 looking forward to collaborate on projects with social impacts at a future date...<br>
+- 👯 looking forward to collaborate on projects with social impacts in the near future...<br>
 - 🤔 help me with literally anything and everything... I am learning.<br>
 - 💬 Happy to help you with Java / Kotlin errors<br>
 - 😄 Pronouns: He / Himm<br>
