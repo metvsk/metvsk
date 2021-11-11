@@ -20,6 +20,7 @@ I love food.<br>
   </section>
   <hr>
   Current Status<br>
+  <img src="images/coding.gif" width=200></a>
 - 🔭 Actively working on youtube API and Lives<br>
 - 🌱 learning Kotlin to improve productivity<br>
 - 👯 looking forward to collaborate on projects with social impacts in the near future...<br>
