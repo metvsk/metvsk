@@ -13,7 +13,6 @@ I love food.<br>
   👆www.chillandcode.com🖱️</a><br><br>
   
   connect with me on : 
-  <a href="https://twitter.com/metvsk" target="_blank"><img src="images/logo_twitter.png" width=25></a>
 <a href="https://www.linkedin.com/in/metvsk/" target="_blank"><img src="images/logo_linked_in.png" width=25></a>
 <a href="https://www.facebook.com/metvsk/" target="_blank"><img src="images/logo_fb.png" width=25></a>
 <br>
